@@ -50,10 +50,6 @@ user_groups:
 - Visitors
 ---
 
-Work in progress
-
-# Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-# Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Anna Vesely is a PhD student at the Department of Statistical Sciences of the University of Padova. Her research interests include multiple hypothesis testing and permutation methods, with applications in biostatistics. Work in progress
 
 [Curriculum Vitae](files/cv.pdf)
